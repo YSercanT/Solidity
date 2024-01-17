@@ -1,2 +1,2 @@
 # Solidity
-Sample Solidity Codes
+Sample Smart Contrats with Solidity
